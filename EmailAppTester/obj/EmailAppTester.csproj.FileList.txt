@@ -1,0 +1,16 @@
+bin\Debug\EmailAppTester.exe
+bin\Debug\EmailAppTester.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EmailAppTester.Form1.resources
+obj\Debug\EmailAppTester.Properties.Resources.resources
+obj\Debug\EmailAppTester.csproj.GenerateResource.Cache
+obj\Debug\EmailAppTester.exe
+obj\Debug\EmailAppTester.pdb
+bin\Release\EmailAppTester.exe
+bin\Release\EmailAppTester.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\EmailAppTester.Form1.resources
+obj\Release\EmailAppTester.Properties.Resources.resources
+obj\Release\EmailAppTester.csproj.GenerateResource.Cache
+obj\Release\EmailAppTester.exe
+obj\Release\EmailAppTester.pdb

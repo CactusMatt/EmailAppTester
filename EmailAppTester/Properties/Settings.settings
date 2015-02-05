@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmailAppTester.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailServerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.the-fam.us</Value>
+    </Setting>
+    <Setting Name="EmailCredentialsAcct" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wsll@the-fam.us</Value>
+    </Setting>
+    <Setting Name="EmailCredentialsPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">email credentials password for my-account@my-domain.net (in plain text)</Value>
+    </Setting>
+    <Setting Name="EmailSendFromAcct" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wsll@the-fam.us</Value>
+    </Setting>
+    <Setting Name="EmailListPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\users\Matthew\Documents\docs\mattg\wsll\2012 season</Value>
+    </Setting>
+    <Setting Name="EmailDocumentPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\users\Matthew\Documents\docs\mattg\wsll\2012 season</Value>
+    </Setting>
+    <Setting Name="EmailLogoPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\users\Matthew\Documents\docs\mattg\wsll\2012 season\wsllLogo.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

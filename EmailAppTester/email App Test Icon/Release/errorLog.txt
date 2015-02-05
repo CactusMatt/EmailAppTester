@@ -1,0 +1,326 @@
+1/28/2009 10:49:52 PM Began send to 2 addresses.
+1/28/2009 10:49:56 PM Send Complete, 2 emails sent.
+1/28/2009 10:58:39 PM Began send to 414 addresses.
+1/28/2009 11:22:03 PM Send Complete, 414 emails sent.
+1/30/2009 9:25:51 AM Began send to 2 addresses.
+1/30/2009 9:25:55 AM Send Complete, 2 emails sent.
+1/30/2009 9:28:18 AM Began send to 2 addresses.
+1/30/2009 9:28:26 AM Send Complete, 2 emails sent.
+1/30/2009 9:35:44 AM Began send to 2 addresses.
+1/30/2009 9:35:48 AM Send Complete, 2 emails sent.
+1/30/2009 9:38:58 AM Began send to 2 addresses.
+1/30/2009 9:39:00 AM Send Complete, 2 emails sent.
+1/30/2009 9:41:33 AM Began send to 2 addresses.
+1/30/2009 9:41:36 AM Send Complete, 2 emails sent.
+2/3/2009 3:21:41 PM Began send to 2 addresses.
+2/3/2009 3:21:45 PM Send Complete, 2 emails sent.
+2/3/2009 3:37:26 PM Began send to 2 addresses.
+2/3/2009 3:37:28 PM Send Complete, 2 emails sent.
+2/3/2009 3:44:33 PM Began send to 393 addresses.
+2/3/2009 3:53:00 PM Send Complete, 393 emails sent.
+2/12/2009 5:57:51 PM Began send to 2 addresses.
+2/12/2009 5:57:55 PM Send Complete, 2 emails sent.
+2/12/2009 6:05:41 PM Began send to 470 addresses.
+The operation has timed out.
+Connection did not occur, Host not found at anglsbreed@yahoo.com recipient.
+The operation has timed out.
+Connection did not occur, Host not found at cfontesrn@comcast.net recipient.
+The operation has timed out.
+Connection did not occur, Host not found at coryfam2@comcast.net recipient.
+2/12/2009 6:29:28 PM Send Complete, 467 emails sent.
+2/23/2009 5:20:06 PM Began send to 2 addresses.
+2/23/2009 5:20:11 PM Send Complete, 2 emails sent.
+2/23/2009 5:27:58 PM Began send to 2 addresses.
+2/23/2009 5:28:00 PM Send Complete, 2 emails sent.
+2/23/2009 5:35:36 PM Began send to 454 addresses.
+2/23/2009 6:06:33 PM Send Complete, 454 emails sent.
+10/7/2009 12:59:00 PM Began send to 2 addresses.
+10/7/2009 12:59:06 PM Send Complete, 2 emails sent.
+10/7/2009 3:13:00 PM Began send to 2 addresses.
+10/7/2009 3:13:03 PM Send Complete, 2 emails sent.
+10/7/2009 7:05:38 PM Began send to 2 addresses.
+10/7/2009 7:05:42 PM Send Complete, 2 emails sent.
+10/7/2009 10:21:10 PM Began send to 2 addresses.
+10/7/2009 10:21:12 PM Send Complete, 2 emails sent.
+10/8/2009 11:27:02 AM Began send to 2 addresses.
+10/8/2009 11:27:07 AM Send Complete, 2 emails sent.
+10/8/2009 1:59:58 PM Began send to 2 addresses.
+10/8/2009 2:00:01 PM Send Complete, 2 emails sent.
+10/8/2009 2:30:55 PM Began send to 2 addresses.
+10/8/2009 2:30:57 PM Send Complete, 2 emails sent.
+10/8/2009 3:32:26 PM Began send to 2 addresses.
+10/8/2009 3:32:28 PM Send Complete, 2 emails sent.
+10/8/2009 8:46:21 PM Began send to 2 addresses.
+10/8/2009 8:46:23 PM Send Complete, 2 emails sent.
+10/8/2009 9:24:02 PM Began send to 2 addresses.
+10/8/2009 9:24:03 PM Send Complete, 2 emails sent.
+10/8/2009 10:01:42 PM Began send to 2 addresses.
+10/8/2009 10:01:45 PM Send Complete, 2 emails sent.
+10/8/2009 10:05:54 PM Began send to 3 addresses.
+10/8/2009 10:05:57 PM Send Complete, 3 emails sent.
+10/9/2009 9:48:02 AM Began send to 4 addresses.
+10/9/2009 9:48:08 AM Send Complete, 4 emails sent.
+10/9/2009 10:00:18 AM Began send to 4 addresses.
+10/9/2009 10:00:23 AM Send Complete, 4 emails sent.
+10/9/2009 10:12:02 AM Began send to 84 addresses.
+10/9/2009 10:14:38 AM Send Complete, 84 emails sent.
+10/9/2009 10:36:13 AM Began send to 97 addresses.
+10/9/2009 10:39:40 AM Send Complete, 97 emails sent.
+10/9/2009 2:24:02 PM Began send to 4 addresses.
+10/9/2009 2:24:08 PM Send Complete, 4 emails sent.
+10/9/2009 8:13:36 PM Began send to 4 addresses.
+10/9/2009 8:13:41 PM Send Complete, 4 emails sent.
+10/16/2009 9:12:18 AM Began send to 4 addresses.
+Mailbox name not allowed. The server response was: sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+Failed to deliver message to matthewdgeorge@hotmail.com, FailedRecipient exception.
+Mailbox name not allowed. The server response was: sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+Failed to deliver message to matthewdgeorge123@yahoo.com, FailedRecipient exception.
+Mailbox name not allowed. The server response was: sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+Failed to deliver message to toolhead.george@gmail.com, FailedRecipient exception.
+10/16/2009 9:12:40 AM Send Complete, 1 emails sent.
+10/16/2009 8:06:24 PM Began send to 4 addresses.
+Mailbox name not allowed. The server response was: sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+Failed to deliver message to matthewdgeorge@hotmail.com, FailedRecipient exception.
+Mailbox name not allowed. The server response was: sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+Failed to deliver message to matthewdgeorge123@yahoo.com, FailedRecipient exception.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for toolhead.george@gmail.com.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for matthewdgeorge@the-fam.us.
+10/16/2009 8:06:36 PM Send Complete, 0 emails sent.
+10/16/2009 8:31:45 PM Began send to 4 addresses.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for matthewdgeorge@hotmail.com.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for matthewdgeorge123@yahoo.com.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for toolhead.george@gmail.com.
+10/16/2009 8:31:47 PM Send Complete, 1 emails sent.
+10/16/2009 9:36:53 PM Began send to 4 addresses.
+10/16/2009 9:36:55 PM Send Complete, 4 emails sent.
+10/16/2009 9:48:41 PM Began send to 4 addresses.
+10/16/2009 9:48:42 PM Send Complete, 4 emails sent.
+10/16/2009 9:53:02 PM Began send to 99 addresses.
+10/16/2009 9:53:31 PM Send Complete, 99 emails sent.
+10/21/2009 9:12:18 AM Began send to 4 addresses.
+Mailbox unavailable. The server response was: Relaying not allowed
+Mailbox not found or could not be accessed for matthewdgeorge@hotmail.com.
+10/21/2009 9:12:26 AM Send Complete, 3 emails sent.
+10/21/2009 9:19:48 AM Began send to 99 addresses.
+10/21/2009 9:22:30 AM Send Complete, 99 emails sent.
+10/30/2009 11:58:04 PM Began send to 4 addresses.
+10/30/2009 11:58:30 PM Send Complete, 4 emails sent.
+10/31/2009 12:06:34 AM Began send to 4 addresses.
+10/31/2009 12:06:59 AM Send Complete, 4 emails sent.
+10/31/2009 12:10:07 AM Began send to 4 addresses.
+10/31/2009 12:10:31 AM Send Complete, 4 emails sent.
+10/31/2009 12:13:14 AM Began send to 389 addresses.
+10/31/2009 12:51:55 AM Send Complete, 389 emails sent.
+11/13/2009 8:33:40 AM Began send to 4 addresses.
+11/13/2009 8:33:44 AM Send Complete, 4 emails sent.
+11/13/2009 8:38:08 AM Began send to 99 addresses.
+11/13/2009 8:39:40 AM Send Complete, 99 emails sent.
+11/24/2009 9:09:51 AM Began send to 4 addresses.
+11/24/2009 9:09:55 AM Send Complete, 4 emails sent.
+11/24/2009 9:19:30 AM Began send to 99 addresses.
+11/24/2009 9:20:49 AM Send Complete, 99 emails sent.
+12/7/2009 8:40:40 AM Began send to 4 addresses.
+12/7/2009 8:40:45 AM Send Complete, 4 emails sent.
+12/7/2009 8:43:10 AM Began send to 101 addresses.
+12/7/2009 8:44:06 AM Send Complete, 101 emails sent.
+12/9/2009 9:25:04 PM Began send to 4 addresses.
+12/9/2009 9:25:07 PM Send Complete, 4 emails sent.
+12/9/2009 9:47:27 PM Began send to 4 addresses.
+12/9/2009 9:47:29 PM Send Complete, 4 emails sent.
+12/10/2009 9:02:36 AM Began send to 388 addresses.
+Failure sending mail.
+Connection did not occur, Host not found at neelamsharma_99@yahoo.com recipient.
+12/10/2009 9:06:59 AM Send Complete, 387 emails sent.
+1/7/2010 1:43:41 PM Began send to 4 addresses.
+1/7/2010 1:43:44 PM Send Complete, 4 emails sent.
+1/7/2010 1:47:13 PM Began send to 4 addresses.
+1/7/2010 1:47:16 PM Send Complete, 4 emails sent.
+1/7/2010 1:48:42 PM Began send to 388 addresses.
+Failure sending mail.
+Connection did not occur, Host not found at mvannucchi@yahoo.com recipient.
+1/7/2010 1:53:27 PM Send Complete, 387 emails sent.
+1/9/2010 12:10:25 PM Began send to 4 addresses.
+1/9/2010 12:10:28 PM Send Complete, 4 emails sent.
+1/9/2010 12:13:34 PM Began send to 4 addresses.
+1/9/2010 12:13:36 PM Send Complete, 4 emails sent.
+1/9/2010 12:15:18 PM Began send to 101 addresses.
+1/9/2010 12:15:48 PM Send Complete, 101 emails sent.
+1/9/2010 10:56:19 PM Began send to 7 addresses.
+NULL address in list, position 6
+1/9/2010 10:56:22 PM Send Complete, 6 emails sent.
+3/22/2010 1:02:13 PM Began send to 4 addresses.
+3/22/2010 1:02:22 PM Send Complete, 4 emails sent.
+3/22/2010 1:11:53 PM Began send to 4 addresses.
+3/22/2010 1:11:55 PM Send Complete, 4 emails sent.
+3/22/2010 5:26:07 PM Began send to 363 addresses.
+3/22/2010 5:28:06 PM Send Complete, 363 emails sent.
+3/30/2010 9:14:37 PM Began send to 4 addresses.
+3/30/2010 9:14:39 PM Send Complete, 4 emails sent.
+3/30/2010 9:24:54 PM Began send to 4 addresses.
+3/30/2010 9:24:55 PM Send Complete, 4 emails sent.
+3/30/2010 9:26:59 PM Began send to 349 addresses.
+3/30/2010 9:29:02 PM Send Complete, 349 emails sent.
+4/12/2010 10:09:20 AM Began send to 4 addresses.
+4/12/2010 10:09:23 AM Send Complete, 4 emails sent.
+4/12/2010 10:33:58 AM Began send to 5 addresses.
+NULL address in list, position 4
+4/12/2010 10:34:07 AM Send Complete, 4 emails sent.
+4/12/2010 10:36:28 AM Began send to 102 addresses.
+The operation has timed out.
+Connection did not occur, Host not found at aaron@damommio.com recipient.
+4/12/2010 10:40:22 AM Send Complete, 101 emails sent.
+4/14/2010 9:31:10 AM Began send to 5 addresses.
+NULL address in list, position 4
+4/14/2010 9:31:34 AM Send Complete, 4 emails sent.
+4/14/2010 9:37:38 AM Began send to 4 addresses.
+4/14/2010 9:37:59 AM Send Complete, 4 emails sent.
+4/14/2010 9:40:46 AM Began send to 4 addresses.
+4/14/2010 9:40:50 AM Send Complete, 4 emails sent.
+4/14/2010 9:42:09 AM Began send to 348 addresses.
+4/14/2010 10:14:39 AM Send Complete, 348 emails sent.
+5/4/2010 10:29:36 AM Began send to 5 addresses.
+NULL address in list, position 4
+5/4/2010 10:29:47 AM Send Complete, 4 emails sent.
+5/4/2010 10:57:24 AM Began send to 5 addresses.
+NULL address in list, position 4
+5/4/2010 10:57:35 AM Send Complete, 4 emails sent.
+5/4/2010 11:25:19 AM Began send to 5 addresses.
+NULL address in list, position 4
+5/4/2010 11:25:23 AM Send Complete, 4 emails sent.
+5/4/2010 2:29:47 PM Began send to 5 addresses.
+NULL address in list, position 4
+5/4/2010 2:29:48 PM Send Complete, 4 emails sent.
+5/4/2010 2:35:10 PM Began send to 5 addresses.
+NULL address in list, position 4
+5/4/2010 2:35:12 PM Send Complete, 4 emails sent.
+5/4/2010 2:37:45 PM Began send to 102 addresses.
+5/4/2010 2:38:42 PM Send Complete, 102 emails sent.
+5/5/2010 3:38:09 PM Began send to 4 addresses.
+5/5/2010 3:38:12 PM Send Complete, 4 emails sent.
+5/5/2010 3:41:09 PM Began send to 348 addresses.
+5/5/2010 3:43:53 PM Send Complete, 348 emails sent.
+5/27/2010 2:37:55 PM Began send to 4 addresses.
+5/27/2010 2:37:59 PM Send Complete, 4 emails sent.
+5/27/2010 2:39:44 PM Began send to 348 addresses.
+5/27/2010 2:43:12 PM Send Complete, 348 emails sent.
+5/29/2010 11:04:30 PM Began send to 4 addresses.
+5/29/2010 11:05:26 PM Send Complete, 4 emails sent.
+5/29/2010 11:16:41 PM Began send to 4 addresses.
+5/29/2010 11:17:42 PM Send Complete, 4 emails sent.
+5/29/2010 11:20:34 PM Began send to 348 addresses.
+Failure sending mail.
+Connection did not occur, Host not found at janetsangdai@gmail.com recipient.
+Failure sending mail.
+Connection did not occur, Host not found at japlex@comcast.net recipient.
+5/30/2010 12:49:06 AM Send Complete, 346 emails sent.
+6/26/2010 9:12:55 AM Began send to 4 addresses.
+6/26/2010 9:12:58 AM Send Complete, 4 emails sent.
+6/26/2010 9:14:12 AM Began send to 348 addresses.
+6/26/2010 9:15:38 AM Send Complete, 348 emails sent.
+6/27/2010 11:15:55 AM Began send to 4 addresses.
+6/27/2010 11:16:04 AM Send Complete, 4 emails sent.
+6/27/2010 11:19:05 AM Began send to 348 addresses.
+6/27/2010 11:31:25 AM Send Complete, 348 emails sent.
+8/18/2010 8:25:13 AM Began send to 4 addresses.
+8/18/2010 8:25:15 AM Send Complete, 4 emails sent.
+8/18/2010 8:26:30 AM Began send to 348 addresses.
+8/18/2010 8:28:44 AM Send Complete, 348 emails sent.
+8/31/2010 8:05:22 PM Began send to 4 addresses.
+8/31/2010 8:05:24 PM Send Complete, 4 emails sent.
+8/31/2010 8:06:49 PM Began send to 348 addresses.
+8/31/2010 8:08:33 PM Send Complete, 348 emails sent.
+9/14/2010 2:06:57 PM Began send to 4 addresses.
+9/14/2010 2:07:00 PM Send Complete, 4 emails sent.
+9/14/2010 2:08:07 PM Began send to 348 addresses.
+9/14/2010 2:12:09 PM Send Complete, 348 emails sent.
+2010/10/19 2:02:33 PM Began send to 4 addresses.
+2010/10/19 2:03:11 PM Send Complete, 4 emails sent.
+2010/10/19 2:08:51 PM Began send to 348 addresses.
+2010/10/19 2:58:54 PM Send Complete, 348 emails sent.
+2010/11/03 2:19:31 PM Began send to 4 addresses.
+2010/11/03 2:19:38 PM Send Complete, 4 emails sent.
+2010/11/03 2:21:38 PM Began send to 348 addresses.
+2010/11/03 2:27:24 PM Send Complete, 348 emails sent.
+2010/11/09 1:44:30 PM Began send to 4 addresses.
+2010/11/09 1:44:35 PM Send Complete, 4 emails sent.
+2010/11/09 2:24:35 PM Began send to 4 addresses.
+2010/11/09 2:24:42 PM Send Complete, 4 emails sent.
+2010/11/09 2:27:15 PM Began send to 347 addresses.
+2010/11/09 2:36:12 PM Send Complete, 347 emails sent.
+2010/11/17 8:46:58 PM Began send to 4 addresses.
+2010/11/17 8:46:59 PM Send Complete, 4 emails sent.
+2010/11/17 8:48:17 PM Began send to 347 addresses.
+Service not available, closing transmission channel. The server response was: Too many messages.
+Smtp connection failed at soccerfremont@sbcglobal.net recipient
+2010/11/17 8:49:55 PM Send Complete, 346 emails sent.
+2010/11/29 3:52:51 PM Began send to 4 addresses.
+2010/11/29 3:52:54 PM Send Complete, 4 emails sent.
+2010/11/29 3:54:49 PM Began send to 347 addresses.
+2010/11/29 4:03:31 PM Send Complete, 347 emails sent.
+2010/11/30 9:48:30 PM Began send to 4 addresses.
+2010/11/30 9:48:33 PM Send Complete, 4 emails sent.
+2010/11/30 9:56:34 PM Began send to 4 addresses.
+2010/11/30 9:56:36 PM Send Complete, 4 emails sent.
+2010/11/30 9:59:57 PM Began send to 347 addresses.
+Service not available, closing transmission channel. The server response was: Too many messages.
+Smtp connection failed at soccerfremont@sbcglobal.net recipient
+Service not available, closing transmission channel. The server response was: Too many messages.
+Smtp connection failed at soldani1@comcast.net recipient
+Service not available, closing transmission channel. The server response was: Too many messages.
+Smtp connection failed at sonia_bansal@hotmail.com recipient
+2010/11/30 10:02:26 PM Send Complete, 344 emails sent.
+2011/01/05 11:22:17 PM Began send to 4 addresses.
+2011/01/05 11:22:39 PM Send Complete, 4 emails sent.
+2011/01/05 11:25:00 PM Began send to 347 addresses.
+2011/01/05 11:53:29 PM Send Complete, 347 emails sent.
+2011/01/10 6:01:33 PM Began send to 4 addresses.
+2011/01/10 6:01:35 PM Send Complete, 4 emails sent.
+2011/01/10 6:03:23 PM Began send to 347 addresses.
+Service not available, closing transmission channel. The server response was: Too many messages.
+Smtp connection failed at soccerfremont@sbcglobal.net recipient
+2011/01/10 6:05:42 PM Send Complete, 346 emails sent.
+2011/01/11 9:49:22 PM Began send to 4 addresses.
+2011/01/11 9:49:25 PM Send Complete, 4 emails sent.
+2011/01/11 10:05:20 PM Began send to 104 addresses.
+2011/01/11 10:06:04 PM Send Complete, 104 emails sent.
+2011/01/12 3:19:45 PM Began send to 4 addresses.
+2011/01/12 3:19:47 PM Send Complete, 4 emails sent.
+2011/01/12 3:34:01 PM Began send to 104 addresses.
+2011/01/12 3:35:08 PM Send Complete, 104 emails sent.
+2011/01/13 10:05:02 AM Began send to 4 addresses.
+2011/01/13 10:05:07 AM Send Complete, 4 emails sent.
+2011/01/13 10:08:57 AM Began send to 4 addresses.
+2011/01/13 10:09:00 AM Send Complete, 4 emails sent.
+2011/01/13 10:21:04 AM Began send to 4 addresses.
+2011/01/13 10:21:08 AM Send Complete, 4 emails sent.
+2011/01/13 10:35:58 AM Began send to 4 addresses.
+2011/01/13 10:36:08 AM Send Complete, 4 emails sent.
+2011/01/13 2:21:26 PM Began send to 4 addresses.
+2011/01/13 2:21:32 PM Send Complete, 4 emails sent.
+2011/01/13 2:31:11 PM Began send to 4 addresses.
+2011/01/13 2:31:17 PM Send Complete, 4 emails sent.
+2011/01/13 9:23:53 PM Began send to 4 addresses.
+2011/01/13 9:23:55 PM Send Complete, 4 emails sent.
+2011/01/13 9:25:08 PM Began send to 4 addresses.
+2011/01/13 9:25:10 PM Send Complete, 4 emails sent.
+2011/01/13 9:26:12 PM Began send to 4 addresses.
+2011/01/13 9:26:14 PM Send Complete, 4 emails sent.
+2011/01/13 9:27:04 PM Began send to 4 addresses.
+2011/01/13 9:27:06 PM Send Complete, 4 emails sent.
+2011/01/14 8:41:20 AM Began send to 4 addresses.
+2011/01/14 8:41:23 AM Send Complete, 4 emails sent.
+2011/01/14 8:55:04 AM Began send to 4 addresses.
+2011/01/14 8:55:07 AM Send Complete, 4 emails sent.
+2011/01/14 9:07:57 AM Began send to 4 addresses.
+2011/01/14 9:08:01 AM Send Complete, 4 emails sent.
+2011/01/14 9:11:18 AM Began send to 4 addresses.
+2011/01/14 9:11:21 AM Send Complete, 4 emails sent.
+2011/01/14 9:14:38 AM Began send to 4 addresses.
+2011/01/14 9:14:43 AM Send Complete, 4 emails sent.
+2011/01/14 9:17:58 AM Began send to 4 addresses.
+2011/01/14 9:18:02 AM Send Complete, 4 emails sent.
